@@ -63,7 +63,7 @@
   grid-column: 1/-1;
 }
 
-@media (max-width: 80px) {
+@media (max-width: 600px) {
   .seguros {
     grid-template-columns: 1fr;
   }
